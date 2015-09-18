@@ -1,0 +1,11 @@
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\bin\Debug\Facebook Log in.exe.config
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\bin\Debug\Facebook Log in.exe
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\bin\Debug\Facebook Log in.pdb
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\obj\Debug\Facebook_Log_in.Form1.resources
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\obj\Debug\Facebook_Log_in.Properties.Resources.resources
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\obj\Debug\Facebook Log in.csproj.GenerateResource.Cache
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\obj\Debug\Facebook Log in.exe
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\obj\Debug\Facebook Log in.pdb
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\bin\Debug\Facebook.dll
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\bin\Debug\Facebook.xml
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Log in\obj\Debug\Facebook Log in.csprojResolveAssemblyReference.cache
